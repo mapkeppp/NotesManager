@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Менеджер Нотаток</string>
+    <string name="hint_title">Заголовок</string>
+    <string name="hint_content">Зміст нотатки</string>
+    <string name="button_save">Зберегти</string>
+    <string name="empty_note_list">Немає нотаток</string>
+</resources>
